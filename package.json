@@ -1,0 +1,19 @@
+{
+  "name": "node_performance_improve",
+  "version": "1.0.0",
+  "description": "improve performance of node server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikashparida1995/Node_performance.git"
+  },
+  "author": "vikash parida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikashparida1995/Node_performance/issues"
+  },
+  "homepage": "https://github.com/vikashparida1995/Node_performance#readme"
+}
