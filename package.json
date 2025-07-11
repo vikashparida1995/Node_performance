@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vikashparida1995/Node_performance/issues"
   },
-  "homepage": "https://github.com/vikashparida1995/Node_performance#readme"
+  "homepage": "https://github.com/vikashparida1995/Node_performance#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
